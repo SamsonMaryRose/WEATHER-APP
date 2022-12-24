@@ -7,7 +7,7 @@
     "start": "node src/app.js",
     "dev": "nodemon src/app.js"
   },
-  "author": "",
+  "author": "Mary Rose Samson",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
