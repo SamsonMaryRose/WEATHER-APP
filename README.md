@@ -1,4 +1,6 @@
-# WEATHER-APP
+# WEATHER-APP - MARY ROSE SAMSON
+
+- PROJECT PREVIEW
 
 ![Screenshot (142)](https://user-images.githubusercontent.com/116648877/209347114-161a6771-8f0a-40cb-bd65-7389e9ece7ba.png)
 
