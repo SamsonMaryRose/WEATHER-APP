@@ -8,4 +8,4 @@ HOW TO RUN?
 
 (It will send a port where you can access your app)
 
-- Go to your browser and type "localhost:<port>" then you can see your code running.
+- Go to your browser and type "localhost:port" then you can see your code running.
